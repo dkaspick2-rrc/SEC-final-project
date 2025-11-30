@@ -11,4 +11,4 @@ jobs:
       security-events: write
     steps:
       - name: Perform Bandit Analysis
-        uses: PyCQA/bandit-actions@v1
+        uses: PyCQA/bandit-action@v1
